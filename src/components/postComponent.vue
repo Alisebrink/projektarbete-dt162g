@@ -184,5 +184,6 @@ div.create-post input[type=text] {
   margin-right:15px;
   border:1px solid #FFAA01;
   border-radius: 5px;
+  padding: 5px 10px;
 }
 </style>
